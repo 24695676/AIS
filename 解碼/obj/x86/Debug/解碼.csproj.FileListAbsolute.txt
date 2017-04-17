@@ -1,0 +1,69 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\bin\Debug\解碼.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\bin\Debug\解碼.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\obj\x86\Debug\解碼.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\解碼\解碼\obj\x86\Debug\解碼.pdb
+C:\Users\user\Desktop\解碼\解碼\obj\x86\Debug\解碼.exe
+C:\Users\user\Desktop\解碼\解碼\obj\x86\Debug\解碼.pdb
+C:\Users\user\Desktop\解碼\解碼\bin\Debug\解碼.exe
+C:\Users\user\Desktop\解碼\解碼\bin\Debug\解碼.pdb
+C:\Users\user\Desktop\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\user\Desktop\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\解碼\解碼\obj\x86\Debug\解碼.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\解碼\解碼\obj\x86\Debug\解碼.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼\解碼\obj\x86\Debug\解碼.exe
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼\解碼\obj\x86\Debug\解碼.pdb
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼\解碼\bin\Debug\解碼.exe
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼\解碼\bin\Debug\解碼.pdb
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼\解碼\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼\解碼\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼\解碼\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\解碼\解碼\obj\x86\Debug\解碼.exe
+D:\code\解碼\解碼\obj\x86\Debug\解碼.pdb
+D:\code\解碼\解碼\bin\Debug\解碼.exe
+D:\code\解碼\解碼\bin\Debug\解碼.pdb
+D:\code\解碼\解碼\obj\x86\Debug\解碼.csprojResolveAssemblyReference.cache
+D:\code\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\code\解碼\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\code\解碼\解碼\obj\x86\Debug\解碼.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\解碼.exe
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\解碼.pdb
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼-0105\解碼\bin\Debug\解碼.exe
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼-0105\解碼\bin\Debug\解碼.pdb
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\桌面\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\解碼-0105\解碼\obj\x86\Debug\解碼.exe
+C:\Users\user\Desktop\解碼-0105\解碼\obj\x86\Debug\解碼.pdb
+C:\Users\user\Desktop\解碼-0105\解碼\bin\Debug\解碼.exe
+C:\Users\user\Desktop\解碼-0105\解碼\bin\Debug\解碼.pdb
+C:\Users\user\Desktop\解碼-0105\解碼\obj\x86\Debug\解碼.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\解碼-0105\解碼\obj\x86\Debug\解碼.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\AIS\解碼-0105\解碼\obj\x86\Debug\解碼.exe
+C:\Users\user\Desktop\AIS\解碼-0105\解碼\obj\x86\Debug\解碼.pdb
+C:\Users\user\Desktop\AIS\解碼-0105\解碼\bin\Debug\解碼.exe
+C:\Users\user\Desktop\AIS\解碼-0105\解碼\bin\Debug\解碼.pdb
+C:\Users\user\Desktop\AIS\解碼-0105\解碼\obj\x86\Debug\解碼.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AIS\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\AIS\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\AIS\解碼-0105\解碼\obj\x86\Debug\解碼.csproj.GenerateResource.Cache
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\解碼.exe
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\解碼.pdb
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\bin\Debug\解碼.exe
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\bin\Debug\解碼.pdb
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\解碼.csprojResolveAssemblyReference.cache
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\解碼.csproj.GenerateResource.Cache
