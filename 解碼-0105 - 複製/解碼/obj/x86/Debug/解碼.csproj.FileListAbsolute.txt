@@ -67,3 +67,22 @@ C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\�
 C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\解碼\obj\x86\Debug\解碼.csproj.GenerateResource.Cache
+C:\Users\JuAn\Desktop\解碼-0105\解碼\obj\x86\Debug\解碼.exe
+C:\Users\JuAn\Desktop\解碼-0105\解碼\obj\x86\Debug\解碼.pdb
+C:\Users\JuAn\Desktop\解碼-0105\解碼\bin\Debug\解碼.exe
+C:\Users\JuAn\Desktop\解碼-0105\解碼\bin\Debug\解碼.pdb
+C:\Users\JuAn\Desktop\解碼-0105\解碼\obj\x86\Debug\解碼.csprojResolveAssemblyReference.cache
+C:\Users\JuAn\Desktop\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\JuAn\Desktop\解碼-0105\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JuAn\Desktop\解碼-0105\解碼\obj\x86\Debug\解碼.csproj.GenerateResource.Cache
+C:\Users\JuAn\Desktop\解碼-0105 - 複製\解碼\obj\x86\Debug\解碼.exe
+C:\Users\JuAn\Desktop\解碼-0105 - 複製\解碼\obj\x86\Debug\解碼.pdb
+C:\Users\JuAn\Desktop\解碼-0105 - 複製\解碼\bin\Debug\解碼.exe
+C:\Users\JuAn\Desktop\解碼-0105 - 複製\解碼\bin\Debug\解碼.pdb
+C:\Users\JuAn\Desktop\解碼-0105 - 複製\解碼\obj\x86\Debug\解碼.csprojResolveAssemblyReference.cache
+C:\Users\JuAn\Desktop\解碼-0105 - 複製\解碼\obj\x86\Debug\WindowsFormsApplication1.Class1.resources
+C:\Users\JuAn\Desktop\解碼-0105 - 複製\解碼\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\JuAn\Desktop\解碼-0105 - 複製\解碼\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JuAn\Desktop\解碼-0105 - 複製\解碼\obj\x86\Debug\解碼.csproj.GenerateResource.Cache
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\AIS\解碼-0105 - 複製\解碼\obj\x86\Debug\解碼.exe
+C:\Users\JuAn\Desktop\翊宸\AIS訊息解碼\解碼-0105\AIS\解碼-0105 - 複製\解碼\obj\x86\Debug\解碼.pdb
